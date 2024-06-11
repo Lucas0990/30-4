@@ -53,7 +53,13 @@ header{
     display: flex ;
     flex-wrap: wrap;
 }
+.titulo{
+    color: orange
+}
 
+.chile{
+    color: black !important;
+}
 
 
 @media(max-width: 600px){
